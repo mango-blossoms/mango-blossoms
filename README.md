@@ -7,5 +7,5 @@
 ```csharp
 github.com/mango-blossoms
 tg   $  @eighty
-site   $  https://everlasting.christmas
+site   $  everlasting.christmas
 ```
